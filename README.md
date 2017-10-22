@@ -2,4 +2,21 @@
 
 This repository contains a basic starter kit for react-redux environment with Webpack as module bundler.
 
-Testing and some other modules are yet to be integrated.
+# Development
+
+To run this , follow the following steps:
+
+git clone https://github.com/vinaygosain/react-redux-starter-kit.git
+git cd react-redux-starter-kit
+git checkout master
+npm install
+npm start
+
+# Production
+
+git clone https://github.com/vinaygosain/react-redux-starter-kit.git
+git cd react-redux-starter-kit
+git checkout master
+npm install
+npm run build
+go to http://localhost:9000
